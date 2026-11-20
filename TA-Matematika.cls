@@ -125,7 +125,7 @@
   \or \renewcommand{\@nipPembimbingSatu}{#2}%
   \or \renewcommand{\@nipPembimbingDua}{#2}%
   \or \renewcommand{\@nipPembimbingTiga}{#2}%
-  \else \PackageError{TA-Rifky-Matematika}{Nomor NIPPB hanya 1, 2, atau 3}{}%
+  \else \PackageError{TA-Matematika}{Nomor NIPPB hanya 1, 2, atau 3}{}%
   \fi
 }
 \newcommand\@pujsatu{Nama Penguji Pertama}
