@@ -1,0 +1,30 @@
+# Temporary LaTeX and BibTeX files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.nlo
+*.nls
+*.ilg
+*.synctex.gz
+*.nav
+*.snm
+*.vrb
+*.run.xml
+*.bcf
+*.xdv
+*.synctex
+*.synctex(busy)
+*.pdf
+# Local editor files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
