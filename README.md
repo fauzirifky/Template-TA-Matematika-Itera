@@ -1,6 +1,6 @@
 # Template Tugas Akhir — Matematika ITERA
 
-**Pengembangan, penyusunan ulang, dan pemeliharaan template: Dr. Rifky Fauzi, S.Si., M.Si.**
+**Pengembangan, penyusunan ulang, dan pemeliharaan template: Rifky Fauzi https://fauzirifky.github.io**
 
 Template ini merupakan perangkat penulisan laporan Tugas Akhir (skripsi) Matematika ITERA. Isi dan hasil penelitian tetap menjadi tanggung jawab mahasiswa penyusun.
 

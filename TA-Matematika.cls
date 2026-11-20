@@ -1,6 +1,6 @@
 % Template TA Matematika ITERA -- pengembangan dan pemeliharaan: Dr. Rifky Fauzi, S.Si., M.Si.
 
-\ProvidesClass{TA-Rifky-Matematika}[2026/11/20 v2.0 Template Tugas Akhir Matematika ITERA]
+\ProvidesClass{TA-Matematika}[2026/11/20 v2.0 Template Tugas Akhir Matematika ITERA]
 \NeedsTeXFormat{LaTeX2e}
 \LoadClass[12pt,twoside,openright,final]{book}
 \RequirePackage[indonesian]{babel}
@@ -114,7 +114,7 @@
   \or \renewcommand{\@pembimbingSatu}{#2}%
   \or \renewcommand{\@pembimbingDua}{#2}%
   \or \renewcommand{\@pembimbingTiga}{#2}%
-  \else \PackageError{TA-Rifky-Matematika}{Nomor PB hanya 1, 2, atau 3}{}%
+  \else \PackageError{TA-Matematika}{Nomor PB hanya 1, 2, atau 3}{}%
   \fi
 }
 \newcommand\@nipPembimbingSatu{12345678 123456 1 01}
